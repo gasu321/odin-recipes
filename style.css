@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color: rgb(126, 78, 5);
+    font-family: 'Times New Roman', Times, serif
+}
+
+h3 {
+    text-align: center;
+    background-color: rgb(255, 199, 136);
+}
+
+.descript {
+    text-align: center;
+    background-color: rgb(255, 199, 136);
+}
+
+.ingre {
+    background-color: rgb(255, 221, 176);
+    font-size: 18px;
+}
+
+.direct {
+    background-color: rgb(255, 221, 176);
+    font-size: 18px;
+}
+img {
+    height: 310px;
+    width: 310px;
+    margin: auto;
+    display: block;
+}
+
+body {
+    background-color: beige;
+}
+
+.home {
+    text-align: center;
+    list-style-position: inside;
+    padding-right: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
